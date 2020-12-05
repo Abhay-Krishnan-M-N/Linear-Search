@@ -1,5 +1,7 @@
-# Linear-Search 
- Algorithm:
+# Linear-Search
+Implementation of searching algorithms linear search
+ 
+Algorithm:
 
 Step 1: Select the first element as the current element.
 
